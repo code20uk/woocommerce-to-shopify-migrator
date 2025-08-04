@@ -18,7 +18,7 @@ A Node.js application that converts WooCommerce product exports to Shopify impor
 1. **Clone or download this project**
    ```bash
    git clone <repository-url>
-   cd woocommerce-to-shopify-converter
+   cd woocommerce-to-shopify-migrator
    ```
 
 2. **Install Node.js dependencies**
