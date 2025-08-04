@@ -1,0 +1,37 @@
+{
+  "name": "woocommerce-to-shopify-converter",
+  "version": "1.0.0",
+  "description": "Convert WooCommerce product exports to Shopify import format",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "woocommerce",
+    "shopify",
+    "product",
+    "converter",
+    "migration",
+    "csv",
+    "export",
+    "import"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  },
+  "bugs": {
+    "url": "your-repository-url/issues"
+  },
+  "homepage": "your-repository-url#readme"
+}
